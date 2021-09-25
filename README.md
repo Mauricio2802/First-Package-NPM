@@ -1,4 +1,4 @@
-# random-messages
+# Great Messages
 
 This is a package that provides inspirational phrases while you coding at the terminal.
 
