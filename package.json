@@ -1,6 +1,6 @@
 {
   "name": "@maurice_cl42/greatmessage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that provides you inspirational phrases",
   "main": "src/index.js",
   "scripts": {
