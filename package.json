@@ -1,6 +1,6 @@
 {
   "name": "maurice_cl42-firstpackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Paquete - Random message",
   "main": "src/index.js",
   "scripts": {
