@@ -14,7 +14,15 @@
   "author": "Mauricio Carrasco <vmcarrasco2810@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauricio2802/First-Package-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mauricio2802/First-Package-NPM/issues"
+  },
+  "homepage": "https://github.com/Mauricio2802/First-Package-NPM#readme"
 }
